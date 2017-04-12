@@ -15,6 +15,20 @@
 		F9970AF81E188D5600424D46 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9970AF61E188D5600424D46 /* LaunchScreen.storyboard */; };
 		F9970B031E188D5600424D46 /* _3_HomeWorkAnimationMarioTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F9970B021E188D5600424D46 /* _3_HomeWorkAnimationMarioTests.m */; };
 		F9970B0E1E188D5600424D46 /* _3_HomeWorkAnimationMarioUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F9970B0D1E188D5600424D46 /* _3_HomeWorkAnimationMarioUITests.m */; };
+		F9DE6F6D1E9E67540003E9B6 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F5F1E9E67540003E9B6 /* 1.png */; };
+		F9DE6F6E1E9E67540003E9B6 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F601E9E67540003E9B6 /* 2.png */; };
+		F9DE6F6F1E9E67540003E9B6 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F611E9E67540003E9B6 /* 3.png */; };
+		F9DE6F701E9E67540003E9B6 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F621E9E67540003E9B6 /* 4.png */; };
+		F9DE6F711E9E67540003E9B6 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F631E9E67540003E9B6 /* 5.png */; };
+		F9DE6F721E9E67540003E9B6 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F641E9E67540003E9B6 /* 6.png */; };
+		F9DE6F731E9E67540003E9B6 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F651E9E67540003E9B6 /* 7.png */; };
+		F9DE6F741E9E67540003E9B6 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F661E9E67540003E9B6 /* 8.png */; };
+		F9DE6F751E9E67540003E9B6 /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F671E9E67540003E9B6 /* 9.png */; };
+		F9DE6F761E9E67540003E9B6 /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F681E9E67540003E9B6 /* 10.png */; };
+		F9DE6F771E9E67540003E9B6 /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F691E9E67540003E9B6 /* 11.png */; };
+		F9DE6F781E9E67540003E9B6 /* cloud.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F6A1E9E67540003E9B6 /* cloud.png */; };
+		F9DE6F791E9E67540003E9B6 /* cloud2.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F6B1E9E67540003E9B6 /* cloud2.png */; };
+		F9DE6F7A1E9E67540003E9B6 /* rock.png in Resources */ = {isa = PBXBuildFile; fileRef = F9DE6F6C1E9E67540003E9B6 /* rock.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +65,20 @@
 		F9970B091E188D5600424D46 /* 13-HomeWorkAnimationMarioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "13-HomeWorkAnimationMarioUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9970B0D1E188D5600424D46 /* _3_HomeWorkAnimationMarioUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _3_HomeWorkAnimationMarioUITests.m; sourceTree = "<group>"; };
 		F9970B0F1E188D5600424D46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F9DE6F5F1E9E67540003E9B6 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		F9DE6F601E9E67540003E9B6 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		F9DE6F611E9E67540003E9B6 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		F9DE6F621E9E67540003E9B6 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		F9DE6F631E9E67540003E9B6 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		F9DE6F641E9E67540003E9B6 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		F9DE6F651E9E67540003E9B6 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		F9DE6F661E9E67540003E9B6 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		F9DE6F671E9E67540003E9B6 /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		F9DE6F681E9E67540003E9B6 /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = "<group>"; };
+		F9DE6F691E9E67540003E9B6 /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
+		F9DE6F6A1E9E67540003E9B6 /* cloud.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cloud.png; sourceTree = "<group>"; };
+		F9DE6F6B1E9E67540003E9B6 /* cloud2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cloud2.png; sourceTree = "<group>"; };
+		F9DE6F6C1E9E67540003E9B6 /* rock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rock.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,10 +106,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F97085F01E9E3BF10015FBB3 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				F9DE6F5F1E9E67540003E9B6 /* 1.png */,
+				F9DE6F601E9E67540003E9B6 /* 2.png */,
+				F9DE6F611E9E67540003E9B6 /* 3.png */,
+				F9DE6F621E9E67540003E9B6 /* 4.png */,
+				F9DE6F631E9E67540003E9B6 /* 5.png */,
+				F9DE6F641E9E67540003E9B6 /* 6.png */,
+				F9DE6F651E9E67540003E9B6 /* 7.png */,
+				F9DE6F661E9E67540003E9B6 /* 8.png */,
+				F9DE6F671E9E67540003E9B6 /* 9.png */,
+				F9DE6F681E9E67540003E9B6 /* 10.png */,
+				F9DE6F691E9E67540003E9B6 /* 11.png */,
+				F9DE6F6A1E9E67540003E9B6 /* cloud.png */,
+				F9DE6F6B1E9E67540003E9B6 /* cloud2.png */,
+				F9DE6F6C1E9E67540003E9B6 /* rock.png */,
+			);
+			path = Image;
+			sourceTree = "<group>";
+		};
 		F9970ADC1E188D5600424D46 = {
 			isa = PBXGroup;
 			children = (
 				F9970AE71E188D5600424D46 /* 13-HomeWorkAnimationMario */,
+				F97085F01E9E3BF10015FBB3 /* Image */,
 				F9970B011E188D5600424D46 /* 13-HomeWorkAnimationMarioTests */,
 				F9970B0C1E188D5600424D46 /* 13-HomeWorkAnimationMarioUITests */,
 				F9970AE61E188D5600424D46 /* Products */,
@@ -246,7 +296,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F9DE6F781E9E67540003E9B6 /* cloud.png in Resources */,
+				F9DE6F761E9E67540003E9B6 /* 10.png in Resources */,
+				F9DE6F741E9E67540003E9B6 /* 8.png in Resources */,
 				F9970AF81E188D5600424D46 /* LaunchScreen.storyboard in Resources */,
+				F9DE6F701E9E67540003E9B6 /* 4.png in Resources */,
+				F9DE6F6D1E9E67540003E9B6 /* 1.png in Resources */,
+				F9DE6F791E9E67540003E9B6 /* cloud2.png in Resources */,
+				F9DE6F771E9E67540003E9B6 /* 11.png in Resources */,
+				F9DE6F721E9E67540003E9B6 /* 6.png in Resources */,
+				F9DE6F6E1E9E67540003E9B6 /* 2.png in Resources */,
+				F9DE6F6F1E9E67540003E9B6 /* 3.png in Resources */,
+				F9DE6F711E9E67540003E9B6 /* 5.png in Resources */,
+				F9DE6F731E9E67540003E9B6 /* 7.png in Resources */,
+				F9DE6F751E9E67540003E9B6 /* 9.png in Resources */,
+				F9DE6F7A1E9E67540003E9B6 /* rock.png in Resources */,
 				F9970AF51E188D5600424D46 /* Assets.xcassets in Resources */,
 				F9970AF31E188D5600424D46 /* Main.storyboard in Resources */,
 			);
@@ -509,6 +573,7 @@
 				F9970B141E188D5600424D46 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F9970B151E188D5600424D46 /* Build configuration list for PBXNativeTarget "13-HomeWorkAnimationMarioTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +582,7 @@
 				F9970B171E188D5600424D46 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F9970B181E188D5600424D46 /* Build configuration list for PBXNativeTarget "13-HomeWorkAnimationMarioUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +591,7 @@
 				F9970B1A1E188D5600424D46 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
